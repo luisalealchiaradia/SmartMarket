@@ -112,4 +112,4 @@ Se o arquivo tiver outro nome, substitua `ProjetoAE1-SmartMarket.c` pelo nome co
 
 ## Contexto acadêmico
 
-Projeto desenvolvido no **1º período de Ciência da Computação da PUC Minas — campus Poços de Caldas**, em 2026, como exercício de aplicação de programação estruturada, organização de dados e construção de algoritmos para um problema de gestão.
+Projeto desenvolvido no **1º período de Ciência da Computação da PUC Minas — campus Poços de Caldas**, em 2026, como exercício de aplicação de programação estruturada, organização de dados e construção de algoritmos para problemas de gestão.
