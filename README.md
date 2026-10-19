@@ -110,6 +110,18 @@ Se o arquivo tiver outro nome, substitua `ProjetoAE1-SmartMarket.c` pelo nome co
 - Algumas entradas possuem validação básica.
 - Na análise anual, o rótulo “Faturamento Total” exibido no terminal corresponde à soma dos **lucros registrados**, e não à receita total de vendas.
 
+## Download e execução no Windows
+
+A versão executável do SmartMarket está disponível na seção **Releases** deste repositório.
+
+1. Clique em **Releases**, na lateral direita da página principal, ou [acesse a versão mais recente](../../releases/latest).
+2. Na seção **Assets**, baixe o arquivo ZIP do SmartMarket. Escolha o pacote do programa, e não os arquivos “Source code” gerados pelo GitHub.
+3. Extraia o ZIP para uma pasta no computador.
+4. Abra o arquivo `ProjetoAE1-SmartMarket.exe`.
+
+Não é necessário instalar o Code::Blocks para abrir o executável.
+
+**Observação:** os dados são mantidos somente durante a execução e são perdidos ao fechar o programa.
 ## Contexto acadêmico
 
 Projeto desenvolvido no **1º período de Ciência da Computação da PUC Minas — campus Poços de Caldas**, em 2026, como exercício de aplicação de programação estruturada, organização de dados e construção de algoritmos para problemas de gestão.
